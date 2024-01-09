@@ -1,0 +1,25 @@
+How To Create Facebook Developer Account:
+https://www.youtube.com/watch?v=GTgRqayHnlE
+--------------------------------------------
+
+WhatsApp Integration with ASP.NET Core : Step-by-Step
+
+https://youtu.be/ghvxpFFXvEs
+
+
+
+---------------------------------------------
+link provided by sir
+https://developers.facebook.com/docs/whatsapp/on-premises/get-started
+-----------------
+meta for developers
+//test app in meta for developers
+https://developers.facebook.com/apps/404508678662361/add/
+
+
+----------------
+create whatsapp business platform account
+https://www.facebook.com/business/help/2087193751603668?id=2129163877102343
+
+into whatsapp
+https://business.facebook.com/settings/whatsapp-business-accounts?business_id=1768984106936284&global_scope_id=1768984106936284
