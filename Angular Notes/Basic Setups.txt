@@ -1,0 +1,9 @@
+to create new angular project :
+
+-> ng new projectName
+
+to byPass the policy issue (for running the "ng serve" command on vs code terminal)
+-> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+https://www.youtube.com/watch?v=l8Xojd-Ylh4
